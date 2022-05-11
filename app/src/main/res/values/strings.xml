@@ -4,4 +4,6 @@
     <string name="search">search</string>
     <string name="movie_name">Movie Name</string>
     <string name="character_name">Character name</string>
+    <string name="internet_not_working">No internet connection!!</string>
+    <string name="retry">Retry</string>
 </resources>

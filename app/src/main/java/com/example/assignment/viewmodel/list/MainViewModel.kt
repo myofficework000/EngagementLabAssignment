@@ -7,8 +7,10 @@ import androidx.lifecycle.viewModelScope
 import com.example.assignment.model.remote.ApiService
 import com.example.assignment.model.response.ListOfMovieResponse
 import com.example.assignment.model.response.MovieResponse
-import kotlinx.coroutines.*
-import java.lang.Exception
+import kotlinx.coroutines.CoroutineExceptionHandler
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 class MainViewModel(private val apiService: ApiService) : ViewModel() {
 

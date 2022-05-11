@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="internet_not_working">No internet connection!!</string>
+    <string name="retry">Retry</string>
+</resources>
