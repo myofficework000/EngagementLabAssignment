@@ -23,6 +23,8 @@ The app in itself is a simple movie searrch on the basis Id. Clicking the movie 
 
 <img src="https://github.com/cheetahmail007/EngagementLabAssignment/blob/master/app/src/Asset/screen4.png" height="600" width="300" hspace="40"><img src="https://github.com/cheetahmail007/EngagementLabAssignment/blob/master/app/src/Asset/testcases.png" height="600" width="300" hspace="40">
 
+<img src="https://github.com/cheetahmail007/EngagementLabAssignment/blob/master/app/src/Asset/internet_issue.png" height="600" width="300" hspace="40">
+
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
