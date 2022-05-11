@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mock Mvvm 2</string>
+    <string name="enter_id_to_search_for_movie_details">Enter movie id</string>
+    <string name="search">search</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="character_name">Character name</string>
+</resources>
